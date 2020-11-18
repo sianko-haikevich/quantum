@@ -1,0 +1,7 @@
+group 'by.senko.gaykevich'
+version '0.0.1'
+
+task gradleWrapper(type: Wrapper) {
+    gradleVersion = "5.2.1"
+    distributionUrl = "http://services.gradle.org/distributions/gradle-${gradleVersion}-bin.zip"
+}
