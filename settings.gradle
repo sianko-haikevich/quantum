@@ -2,3 +2,4 @@ rootProject.name = 'QUANTUM'
 
 include 'services'
 include ':services:discovery-service'
+include ':services:quantum-service'
