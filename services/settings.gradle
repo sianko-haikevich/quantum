@@ -1,2 +1,4 @@
 include 'discovery-service'
+include 'gateway-service'
 include 'quantum-service'
+include 'file-service'
